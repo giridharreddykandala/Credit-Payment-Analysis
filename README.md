@@ -1,5 +1,4 @@
 # Credit-Payment-Analysis
-# Readme File for Analysis of Credit Card Default Prediction
 
 ## Overview
 
